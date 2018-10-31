@@ -1,0 +1,7 @@
+[package]
+name = "warp-hello-world"
+version = "0.1.0"
+authors = ["David Muir <hey@davidmuir.co>"]
+
+[dependencies]
+warp = "0.1.9"
